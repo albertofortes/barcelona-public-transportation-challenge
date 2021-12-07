@@ -8,7 +8,9 @@ export default function Layout({ children }: any) {
       <Head>
         <title>Barcelona Public Transportation Challenge</title>
         <meta name="description" content="UserZoom take home test" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+        <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png" />
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
       </Head>
       <Header />
       <LayoutStyled>

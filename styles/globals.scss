@@ -1,0 +1,42 @@
+html,
+body {
+  font-family: Roboto, Helvetica Neue, Arial, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+html { 
+  font-size: 10px;
+
+	overflow-y: scroll;
+	scroll-behavior: smooth;
+	scroll-snap-type: x mandatory;
+	scroll-padding: 0 2rem;
+
+	&::-webkit-scrollbar-track {
+		border: none;
+		background-color: transparent;
+	}
+
+	&::-webkit-scrollbar {
+		width: .4rem;
+		height: .4rem;
+		background-color: transparent;
+	}
+
+	&::-webkit-scrollbar-thumb {
+		background-color: #a7a7a7;
+		border-radius: .4rem;
+	}
+
+	-ms-overflow-style: -ms-autohiding-scrollbar;
+	scrollbar-width: thin;
+}
+
+:root {
+  font-size: 62.5%;
+}

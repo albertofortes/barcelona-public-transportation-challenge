@@ -1,6 +1,6 @@
 import type, { ReactElement, ReactNode } from 'react'
 import type { NextPage } from 'next'
-import '../styles/globals.css'
+import '../styles/globals.scss'
 import '../styles/mui-overrides.scss'
 import type { AppProps } from 'next/app'
 import client from '../apollo-client'

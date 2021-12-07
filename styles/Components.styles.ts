@@ -13,9 +13,14 @@ export const HeaderWrapper = styled('header')(() => ({
 
   '& .logo': {
     position: 'relative',
-    width: '5rem',
-    height: '5rem',
-    marginRight: '1rem'
+    width: '4rem',
+    height: '4rem',
+    marginRight: '1rem',
+
+    '@media (min-width: 960px)': {
+      width: '6rem',
+      height: '6rem',
+    }
   },
 
   'h1' : {
