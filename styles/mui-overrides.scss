@@ -1,0 +1,24 @@
+.MuiStepper-root {
+  .MuiStepLabel-root {
+    padding: .25rem 0;
+  }
+
+  .MuiSvgIcon-root {
+    width: 2rem;
+    height: 2rem;
+
+  }
+
+  .MuiStepIcon-text,
+  .MuiStepLabel-label {
+    font-size: 1.5rem;
+  }
+
+  .MuiStepConnector-root {
+    margin-left: 1rem;
+
+    .MuiStepConnector-line {
+      min-height: 1.2rem;
+    }
+  }
+}
