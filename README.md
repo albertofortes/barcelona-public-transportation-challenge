@@ -1,5 +1,8 @@
 # Barcelona Public Transportation Challenge
 
+You can take a look at: https://naughty-darwin-55ed0f.netlify.app/
+The repo link at Github: https://github.com/albertofortes/barcelona-public-transportation-challenge
+
 ### Dependecies
 
 - React 17
