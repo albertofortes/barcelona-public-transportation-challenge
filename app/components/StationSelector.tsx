@@ -20,6 +20,7 @@ const StationSelector: FC<stopsAndstationsType> = ({stopsAndstations}) => {
 
   return (
     <>
+      {/* Autocomplete types: seems that any is the only way to go: https://github.com/mui-org/material-ui/issues/19484 */}
       <StationSelectorStyled>
         <AutocompleteStyled
           disablePortal

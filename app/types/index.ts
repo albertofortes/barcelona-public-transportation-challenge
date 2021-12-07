@@ -81,5 +81,5 @@ export type MetroLineProps = {
 
 export type GoogleMapProps = {
   color?: string,
-  stations?: any
+  stations?: stopEdges[] | stationsEdges[]
 }
