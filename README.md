@@ -1,6 +1,9 @@
 # Barcelona Public Transportation Challenge
 
+![Barcelona Public transportation screenshot](https://raw.githubusercontent.com/albertofortes/barcelona-public-transportation-challenge/main/public/images/barcelona-challenge.png?token=AALAU7C5OWQPX42LFQROUTDBV4YT6)
+
 You can take a look at: https://naughty-darwin-55ed0f.netlify.app/
+
 The repo link at Github: https://github.com/albertofortes/barcelona-public-transportation-challenge
 
 ### Dependecies
