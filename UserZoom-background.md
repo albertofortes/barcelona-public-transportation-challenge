@@ -11,7 +11,7 @@
 To be honest from the close of Google Reader (I really used a lot) I don't have a place where read my fav resources.
 I'm subscribed to some Newsletters and I use to follow a lot of great developers, designers, UX experts, or product people on Twitter (or YouTube) to follow their updates and interesting tweets.
 
-In fact many of them are content creators, so just following their tweets they links to their Medium blogs, YouTube channels, and so on. I mean people like @dan_abramov, @acdlite (Andrew Clark), @midudev (Miguel A. Durán), @ossia (Quincy Larson)...
+In fact many of them are content creators, so just following their tweets they links to their Medium blogs, YouTube channels, and so on. I mean people like @dan_abramov, @acdlite (Andrew Clark), @midudev (Miguel A. Durán), @ossia (Quincy Larson), @ryanflorence, @kentcdodds…
 
 Also, I follow regularity the tweet accounts and directly webpages like:
 
@@ -63,6 +63,8 @@ And at least maybe the most remmarcable: [Remix](https://remix.run/) has been la
 ![Remix framework](https://remix.run/img/og.1.jpg)
 
 To be honest I'm not sure if this is a good news or not (joke), as we are introducing one more new framework to an already complicated stack, but taking a look to some videos, it seems like it comes as another great full stack frameworks to fight with NextJs.
-It promises to be a new framework focused on the user interface and aimed backing to web fundamentals and conventions. Some people are saying that it looks more similar to Ruby on Rails than Next in the sense of productivity.
+
+[Ryan Florence dis a demo on YouTube](https://www.youtube.com/watch?v=wsJaUjd1rUo) few weeks ago. It promises to be a new framework focused on the user interface, primitives, and aimed backing to web fundamentals and conventions. It seems [it looks more similar to Ruby on Rails than to Next](https://marbiano.dev/into-remix/on-rails): routes are Remix primitives, you can nest routes, each route decides which React component to render. Routes can fetch data, respond to actions, load styles, etc. Also like RoR, Remix has conventions, named here as colocations, with the intention to place the code as close to where it is relevant: *"Routes have loaders to fetch data, actions to handle user interactions, and a React component for building the user interface. All colocated in the same file"*.
+
 I'm still investigating this new tool, but it seems nice the way it manages routes and nested routes, error boundaries, so it can eliminate most of the loading states. Instead of fetch inside components as most of the web apps do, Remix prefetch everything in parallel before, it loads data in parallel on the server and sends a fully formed HTML document. Remix runs the action on the server side...
 Anyway I'm still investigating this tool and I'm aimed to start a learning by doing project or tutorial.
