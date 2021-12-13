@@ -9,7 +9,7 @@
 ## Your online references. Sites that you come back to, timeand time again, for inspiration or guidelines.
 
 To be honest from the close of Google Reader (I really used a lot) I don't have a place where read my fav resources.
-I'm subscribed to some Newsletters and I use to follow a lot of great developers, designers, UX experts, or product people on Twitter (or YouTube) to follow their updates and interesting tweets.
+I'm subscribed to some Newsletters and I use to follow a lot of great developers, designers, UX experts, or product people on Twitter (or YouTube) to follow their updates and interesting tweets. Last weel I started to use [Pocket](https://getpocket.com/).
 
 In fact many of them are content creators, so just following their tweets they links to their Medium blogs, YouTube channels, and so on. I mean people like @dan_abramov, @acdlite (Andrew Clark), @midudev (Miguel A. Durán), @ossia (Quincy Larson), @ryanflorence, @kentcdodds…
 
@@ -58,7 +58,7 @@ Next one I want t share it is the [Rapid API State of APIs 2021](https://stateof
 One more time JavaScript is the favourite language followed by Python, Java, and PHP.
 Another interesting points are that REST continues as the most used in production approach but decreasing respect 2020, meanwhile AsyncAPI and GraphQL are increasing.
 
-And at least maybe the most remmarcable: [Remix](https://remix.run/) has been launched. A new React framework from the creators of React Router.
+And at least maybe the most remmarcable: [Remix](https://remix.run/). A new React framework from the creators of React Router.
 
 ![Remix framework](https://remix.run/img/og.1.jpg)
 
