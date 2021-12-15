@@ -28,7 +28,7 @@ Probably we would expect that I chosen the most common data fetching approach: C
 
 ### Metro Lines
 
-- Getting all the lines with getStaticProps() and Apollo. It took more sense to me do a static website as the data doesn't change frequently.
+- Getting all the lines with getStaticProps() and Apollo. It took more sense to me doing a static website as the data doesn't change frequently.
 - As this method only works for pages, passing as props to Component "MetroLines".
 - Sorting Metro lines at MetroLines component. Note that array is frozen in strict mode. Using localeCompare as the name of the lines are not easy to order (L1, L10S, L2...).
 
